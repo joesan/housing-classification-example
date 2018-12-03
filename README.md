@@ -3,7 +3,7 @@ housing-classification-example-python-1
 
 Python codebase for the housing classification ML problem
 
-For data preparation, have a look [here]()
+For data preparation, have a look [here](https://github.com/joesan/housing-classification-example-scala)
 
 Project Organization
 ------------
