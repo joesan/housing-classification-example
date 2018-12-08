@@ -1,6 +1,8 @@
 housing-classification-example-python-1
 ==============================
 
+TODO: Fix security vulnerabilities!
+
 Python codebase for the housing classification ML problem
 
 For data preparation, have a look [here](https://github.com/joesan/housing-classification-example-scala)
